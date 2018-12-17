@@ -1,0 +1,25 @@
+body {
+ background-color: #ddfee4;
+}
+
+h1{
+color: #196b69;
+font-style: italic;
+font-family: Georgia,serif;
+text-align: center;
+}
+p{
+  text-align: center;
+}
+h3{
+  color: #196b69;
+  font-style: normal;
+  font-family: monospace;
+}
+hr {
+ border-style: none;
+ border-top-style: dotted;
+ border-color: grey;
+ border-width: 5px;
+ width: 5%;
+}
